@@ -1,0 +1,33 @@
+# Large datasets / generated files
+data/
+datasets/
+clean_data/
+cnn_data/
+models/
+results/
+spectrograms/
+outputs/
+
+# Audio + ML files
+*.wav
+*.npy
+*.npz
+*.pkl
+*.joblib
+*.h5
+*.keras
+*.pt
+*.pth
+*.csv
+*.zip
+*.tar
+*.gz
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Virtual environments
+venv/
+.env
